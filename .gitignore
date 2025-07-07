@@ -9,6 +9,7 @@ __pycache__/
 data/
 data/raw/
 data/filtered/
+vector_store/
 
 *.csv
 *.log
@@ -68,3 +69,4 @@ ENV/
 
 # Mac
 .DS_Store"vector_store/" 
+"vector_store/" 
