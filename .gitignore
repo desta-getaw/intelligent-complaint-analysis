@@ -67,4 +67,4 @@ ENV/
 .vscode/
 
 # Mac
-.DS_Store
+.DS_Store"vector_store/" 
