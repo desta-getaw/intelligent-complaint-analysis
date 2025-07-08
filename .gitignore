@@ -9,7 +9,11 @@ __pycache__/
 data/
 data/raw/
 data/filtered/
+data/processed/
 vector_store/
+vector_store/complaint_faiss_index/*.faiss
+vector_store/complaint_faiss_index/*.pkl
+complaint_faiss_index/
 
 *.csv
 *.log
@@ -70,3 +74,5 @@ ENV/
 # Mac
 .DS_Store"vector_store/" 
 "vector_store/" 
+"vector_store/complaint_faiss_index/*" 
+"vector_store/complaint_faiss_index/" 
